@@ -11,3 +11,6 @@
 |`void reset()`| the Timer start counting from 0|
 |`boolean read()`| if the interval has passed return `true` and start counting from 0, else return `false`|
 |`bool check()` | if the interval has passed return `true` and **do not start counting from 0**, else return `false`|
+
+
+https://github.com/LewisMojica/ArduinoSotfwareTimer
